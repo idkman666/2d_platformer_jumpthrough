@@ -3,7 +3,7 @@ using UnityEngine.Advertisements;
 
 public class AdManager : MonoBehaviour, IUnityAdsListener
 {
-    string gameId = "3786979";
+    string gameId = "******";
     string rewardedVideoId = "rewardedVideo";
     string videoAdId = "video";
 
