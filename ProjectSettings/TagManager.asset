@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RedWall
+  - Ground
+  - Enemy
+  - CheckPoint
+  - VCam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Walls
+  - EnemyPlatform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BehindLevel
+    uniqueID: 3752773265
+    locked: 0
+  - name: BehindLevel1
+    uniqueID: 3754602845
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: InFrontOfLevel
+    uniqueID: 2013729811
+    locked: 0
